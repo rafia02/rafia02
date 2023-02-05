@@ -4,7 +4,6 @@ Welcome to my GitHub profile. I am MERN stack developer with strong knowledge of
 
 Skills:  REACT / JS / HTML / CSS/Node js/ Express js/ Mongodb/ Bootstrap/ Tailwind css
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next js 
 - 💬 Ask me about React js, Javascript, Es6 
 - 📫 How to reach me: rafiabinterashed01@gmail.com 
