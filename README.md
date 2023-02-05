@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rafia Binte Rashed
+# Hi there 👋, I'm Rafia Binte Rashed
 ###  A passionate MERN Stack developer from Bangladesh
 Welcome to my GitHub profile. I am MERN stack developer with strong knowledge of JavaScript, Es6, React, Express, MongoDB, HTML and CSS. I learn new technology and actively develop my skills and knowledge.
 
